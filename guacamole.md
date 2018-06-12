@@ -1,3 +1,4 @@
 #Guacamole recipe
 
 -Avocados
+-salt
